@@ -55,3 +55,5 @@ Choose a "Main topic" in any menu and navigate to another Menu page: The record 
 
 ### Bonus for the *lazy* geek
 In table **Hyperlinks** you can copy the Anchorlink in column "anchor" and it will generate above conversion automatically in column "SELF_HYPERLINK". The string operations can be reviewed in the hidden columns. 
+
+![SELF_HYPERLINK generator](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/assets/155731594/2ad25210-2637-46ce-b9f9-ee6a1453468c)
