@@ -4,7 +4,9 @@ Based on the excellent post by [Dmitry Sagalovskiy](https://community.getgrist.c
 You can download an example on this Github repository [Menu bar for large flat tables](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/blob/main/Menu%20bar%20for%20large%20flat%20tables.grist).
 
 To test, open one of the menu pages, and select a "main topic" in the table to the left (Ubuntu, Debian, or Fedora). Click on the menu links in the "Menu bar" to open a new page with different information of the same topic. 
-![alt text]([http://url/to/img.png](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/blob/main/Menu%20for%20large%20tables%20Screenshot.png))
+
+![Menu for large tables Screenshot](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/assets/155731594/3eac17bb-9b76-424b-b3ad-607463646946)
+
 
 In essence, I use 2 Cards of the same table, one for the menus, and one for the specific data to be displayed on the page. Not to forget Grist's nice feature to duplicate Pages. I.e. you can prepare a master menu page for duplication. 
 
