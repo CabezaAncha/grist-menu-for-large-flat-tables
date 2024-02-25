@@ -1,7 +1,7 @@
 # Grist menu for large flat tables
 Based on the excellent post by [Dmitry Sagalovskiy](https://community.getgrist.com/u/dmitry-grist/summary) on the [usage of anchor links and SELF_HYPERLINK's](https://community.getgrist.com/t/is-it-possible-to-select-a-record-in-one-page-and-affect-what-is-shown-in-other-page-or-open-another-page-based-on-what-you-selected/1690/2?u=peter_p_breithaupt), I expanded his solution to develop a simple menu navigation. It solves both, editing large tables with 120+ culumns, and ensures that the same record remains active when switching between pages in Grist.
 
-You can download an example on my Github repository [grist menu for large flat tables](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/tree/main).
+You can download an example on this Github repository [Menu bar for large flat tables](https://github.com/CabezaAncha/grist-menu-for-large-flat-tables/blob/main/Menu%20bar%20for%20large%20flat%20tables.grist).
 
 To test, open one of the menu pages, and select a "main topic" in the table to the left (Ubuntu, Debian, or Fedora). Click on the menu links in the "Menu bar" to open a new page with different information of the same topic. 
 
